@@ -1,4 +1,4 @@
-# Super-Shades
+# Super Shades
 Its a niche site based on sunglass. Wide range of sunglasses shown. User can view and buy after register them.
 
 #Key Featuree
